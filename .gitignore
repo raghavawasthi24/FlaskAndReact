@@ -1,0 +1,8 @@
+# environment
+/env
+
+# dependencies
+/arxena-react-frontend/node_modules
+
+# production
+/arxena-eract-frontend/build
